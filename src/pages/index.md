@@ -1,21 +1,18 @@
 ---
-title: Home
+title: Blog
 sections:
   - section_id: intro
     component: Intro
     type: intro
     title: Intro
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Welcome to my Unicorn Blog; talking about Design, Coding and Business.
     actions:
-      - label: Learn More
-        url: /about
+      - label: return home
+        url: https://thewolfcodesign.ninja
 menus:
   main:
-    title: Home
+    title: Blog
     weight: 1
-template: home
+template: blog
 ---
